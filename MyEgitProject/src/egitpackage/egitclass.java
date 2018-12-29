@@ -9,7 +9,7 @@ System.out.println("Hello git");
 System.out.println("Hello egit");
 System.out.println("Hello master");
 System.out.println("Hello branch");
-System.out.println("Hello branch1");
+System.out.println("Hello branch1 and hi");
 
 	}
 
