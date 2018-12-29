@@ -7,6 +7,8 @@ public class egitclass {
 System.out.println("HI");
 System.out.println("Hello git");
 System.out.println("Hello egit");
+System.out.println("Hello master");
+System.out.println("Hello branch");
 
 	}
 
